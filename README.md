@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, Pandas, Numpy, SQL & NoSQL, PowerBI, Statistics etc**
 
-- 📫 How to reach me **sablenikhil98@gmail.com**
+- 📫 Reach me @ **sablenikhil98@gmail.com**
 
 - 📄 Know about my experiences [Worked as an Automation Test Engineer at Zentest Softwares Pvt. Ltd. a Product of Go Live Faster having domain expertise in Corporate US Digital Banking, Payments, Now Actively Looking opportunities in the world of Data Science & Data Analytics.](Worked as an Automation Test Engineer at Zentest Softwares Pvt. Ltd. a Product of Go Live Faster having domain expertise in Corporate US Digital Banking, Payments, Now Actively Looking opportunities in the world of Data Science & Data Analytics.)
 
