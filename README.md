@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Sable</h1>
-<h3 align="center">A passionate Data Analyst & Data Scientist from India</h3>
+<h3 align="center">✨ A passionate Data Analyst with expertise in a programming language like pythons & frameworks, along with a strong background in WebScraping, Data Visualization, Excel & Database Management 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsable17&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsable17" /> </p>
 
