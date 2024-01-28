@@ -15,7 +15,7 @@
 
 - 📫 Reach me @ **sablenikhil98@gmail.com**
 
-- 📄 Know about my experiences [Worked as an Automation Test Engineer at Zentest Softwares Pvt. Ltd. a Product of Go Live Faster having domain expertise in Corporate US Digital Banking, Payments, Now Actively Looking opportunities in the world of Data Science & Data Analytics.](Worked as an Automation Test Engineer at Zentest Softwares Pvt. Ltd. a Product of Go Live Faster having domain expertise in Corporate US Digital Banking, Payments, Now Actively Looking opportunities in the world of Data Science & Data Analytics.)
+- 📄 **Know about my experiences: -** Worked as an Automation Test Engineer at Zentest Softwares Pvt. Ltd. a Product of Go Live Faster having domain expertise in Corporate US Digital Banking, Payments, Now Actively Looking opportunities in the world of Data Science & Data Analytics.](Worked as an Automation Test Engineer at Zentest Softwares Pvt. Ltd. a Product of Go Live Faster having domain expertise in Corporate US Digital Banking, Payments, Now Actively Looking opportunities in the world of Data Science & Data Analytics.
 
 - 😄 Fun Fact **🎆Beyond the data realms, I'm a miniature art 🤏 aficionado, finding joy in creating intricate tiny worlds. When not diving into code, you'll catch me outdoors, whether it's a spirited game of Cricket🏏 or Basketball ⛹️‍♂️ . Balancing the intricate with the adventurous, I'm all about finding beauty in the details and embracing the magic in both pixels and miniatures! 👨‍🎨**
 
